@@ -15,10 +15,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `bash` v3 or newer - that's it
 
 # Install
 
@@ -57,4 +54,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Rob Zwissler](https://github.com/robzr/)
+See [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) © [Rob Zwissler](https://github.com/robzr/)
